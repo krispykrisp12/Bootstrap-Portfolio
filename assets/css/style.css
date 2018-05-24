@@ -9,7 +9,8 @@ html {
     /* Margin bottom by footer height */
     margin-bottom: 60px;
 }
-    a {
+
+a {
     text-decoration: none;
     color: #777;
 }
@@ -18,7 +19,7 @@ header {
 }
 
 section {
-    background-color: white;
+    background-color: #fff;
     padding: 20px;
 }
 
@@ -26,39 +27,25 @@ li {
     list-style-type: none;
     display: inline-block;
     padding: 15px;
-    font-size: 28px;
+    font-size: 22px;
 }
 .heading {
     background-color: #4aaaa5;
     padding: 20px;
-    margin-right: 110px;
+    /* margin-right: 110px; */
     padding-left: 20px;
-    color: white;
+    color: #fff;
     font-size: 35px;
+    text-align: center;
 }
 
-/* Contact Page */
-}
 
-button {
-    background-color: #4aaaa5;
-    color:#4aaaa5;
-}
-
-/* .container input[type=submit]:hover {
-    font-size: 30px;    
-} */
-
-
-
-
-/* End of Contact Page */
 /* Portfolio images and text */
 .card-body {
     background-color: #4aaaa5;
 }
 .card-text {
-    color: white;
+    color: #fff;
 }
 
 
@@ -67,7 +54,6 @@ button {
 #greenish {
     color: #4aaaa5;
     padding: 5px;
-
 }
 
 img {
@@ -82,9 +68,9 @@ img {
     color: white;
 } */
 
-.my-back{
-    background-color: white;
-}
+/* .my-back{
+    background-color: #fff;
+} */
 
 p {
     line-height: 30px;
@@ -100,7 +86,7 @@ p {
     background-color: #666;
     border-top: 10px solid #4aaaa5;
     text-align: center;
-    color: white;
+    color: #fff;
   }
 
 
